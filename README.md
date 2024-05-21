@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am a Programmer**
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanujkohli&label=Profile%20views&color=0e75b6&style=flat" alt="imtanujkohli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanujkohli" alt="imtanujkohli" /></a> </p>
