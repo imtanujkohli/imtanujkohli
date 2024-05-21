@@ -1,11 +1,22 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Tanuj kohli</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanujkohli&label=Profile%20views&color=0e75b6&style=flat" alt="imtanujkohli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanujkohli" alt="imtanujkohli" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tanujkohli24" target="blank"><img src="https://img.shields.io/twitter/follow/tanujkohli24?logo=twitter&style=for-the-badge" alt="tanujkohli24" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Android , C++ , DSA**
+
+- 📫 How to reach me **tanujkohli83@gmail.com**
+
+- ⚡ Fun fact **I am a Programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
